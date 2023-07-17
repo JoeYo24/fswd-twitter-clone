@@ -1,0 +1,22 @@
+.sign-in, .sign-up {
+    background-color: rgb(77, 76, 76);
+    color: white;
+    height: 100vh;
+    text-align: center;
+    padding-top: 50px;
+}
+.form-container {
+    background-color: black;
+    color: white;
+    height: 80vh;
+    max-width: 80vw;
+}
+.back-to-home {
+    color: white;
+    float: left;
+    text-decoration: none;
+}
+.submit-button:hover {
+    background-color: rgb(43, 255, 0);
+    color: white;
+}
