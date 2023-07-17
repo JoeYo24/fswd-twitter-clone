@@ -1,0 +1,38 @@
+.home-background {
+    background-image: url(./utlils/GreenBirdv2.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.home {
+    background-color: black;
+    color: white;
+}
+.navbar-brand {
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+}
+navbar {
+    height: 100px;
+}
+.btn {
+    background-color: white;
+    color: black;
+    width: 25vw;
+    height: 35px;
+    text-align: center;
+    font-size: 1.5rem;
+    align-content: center;
+    align-items: center;
+    line-height: .75;
+}
+.footer-nav {
+    max-height: 100px;
+}
+.nav-link {
+    color: darkgray;
+}
+.nav-link:hover {
+    color: white;
+}
